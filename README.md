@@ -36,4 +36,4 @@
 
 # 📝 Known "Issues"
 
-* `Communism.Run` requires generic parameter to be a value type and not a value type.
+* `Communism.Run` requires generic parameter to be a value type and also not a value type.
