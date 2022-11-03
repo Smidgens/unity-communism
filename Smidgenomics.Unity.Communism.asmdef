@@ -1,0 +1,14 @@
+{
+    "name": "Smidgenomics.Unity.Communism",
+    "rootNamespace": "Smidgenomics.Unity.Communism",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

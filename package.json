@@ -1,0 +1,19 @@
+{
+	"name":"com.smidgenomics.communism",
+	"version":"1.0.0",
+	"displayName":"Communism",
+	"description":"Communism for Unity",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Smidgens/unity-communism.git"
+	},
+	"author":{
+		"name":"Unnar Krist",
+		"url":"https://github.com/Smidgens"
+	},
+	"keywords":[
+		"communism",
+		"unity-communism",
+		"hungertube"
+	]
+}
